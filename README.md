@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on freelancing<br>I'm a web developer<br>i study in SCET - MCA
+<br>I'm a web developer<br>i study in SCET - MCA
 
 
 ## 🌐 Socials:
